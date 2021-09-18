@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cricket-app/static/css/main.1089e316.chunk.css",
+    "main.js": "/cricket-app/static/js/main.03a46a74.chunk.js",
+    "main.js.map": "/cricket-app/static/js/main.03a46a74.chunk.js.map",
+    "runtime-main.js": "/cricket-app/static/js/runtime-main.c5553847.js",
+    "runtime-main.js.map": "/cricket-app/static/js/runtime-main.c5553847.js.map",
+    "static/js/2.c3a53aca.chunk.js": "/cricket-app/static/js/2.c3a53aca.chunk.js",
+    "static/js/2.c3a53aca.chunk.js.map": "/cricket-app/static/js/2.c3a53aca.chunk.js.map",
+    "static/js/3.0d833e07.chunk.js": "/cricket-app/static/js/3.0d833e07.chunk.js",
+    "static/js/3.0d833e07.chunk.js.map": "/cricket-app/static/js/3.0d833e07.chunk.js.map",
+    "index.html": "/cricket-app/index.html",
+    "service-worker.js": "/cricket-app/service-worker.js",
+    "service-worker.js.map": "/cricket-app/service-worker.js.map",
+    "static/css/main.1089e316.chunk.css.map": "/cricket-app/static/css/main.1089e316.chunk.css.map",
+    "static/js/2.c3a53aca.chunk.js.LICENSE.txt": "/cricket-app/static/js/2.c3a53aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5553847.js",
+    "static/js/2.c3a53aca.chunk.js",
+    "static/css/main.1089e316.chunk.css",
+    "static/js/main.03a46a74.chunk.js"
+  ]
+}
